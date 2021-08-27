@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciclo2 lista", "Ciclo2 lista\Ciclo2 lista.csproj", "{28A6BF63-7AA1-427B-8A64-4756A68D0EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A6BF63-7AA1-427B-8A64-4756A68D0EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A6BF63-7AA1-427B-8A64-4756A68D0EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A6BF63-7AA1-427B-8A64-4756A68D0EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A6BF63-7AA1-427B-8A64-4756A68D0EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97588EE-E082-4970-946F-9B680C5A7AE9}
+	EndGlobalSection
+EndGlobal

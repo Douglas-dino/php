@@ -1,0 +1,10 @@
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\bin\Debug\Ciclo2 lista.exe.config
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\bin\Debug\Ciclo2 lista.exe
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\bin\Debug\Ciclo2 lista.pdb
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\obj\Debug\Ciclo2 lista.csprojAssemblyReference.cache
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\obj\Debug\Ciclo2_lista.Form1.resources
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\obj\Debug\Ciclo2_lista.Properties.Resources.resources
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\obj\Debug\Ciclo2 lista.csproj.GenerateResource.cache
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\obj\Debug\Ciclo2 lista.csproj.CoreCompileInputs.cache
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\obj\Debug\Ciclo2 lista.exe
+C:\Users\joker\Desktop\Ciclo2\Ciclo2 lista\Ciclo2 lista\obj\Debug\Ciclo2 lista.pdb

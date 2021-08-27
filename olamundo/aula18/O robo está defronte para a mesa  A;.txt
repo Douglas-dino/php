@@ -1,0 +1,38 @@
+
+
+enquanto o sensor não detectar objeto à frente (Mesa A) 
+robo faz passo + 1;
+robo para defronte à mesa A;
+erga o braço direito
+se o sensor detectar um objeto pequeno (caneta) à frente
+pegue o objeto à frente;
+se não abaixe o braço direito;
+se houver objeto pequeno à frente
+pegue o objeto o à fente;
+se não erga o braço esquerdo;
+se o sensor detectar um objeto pequeno à frente
+pegue o objeto à frente;
+se não abaixe o braço esquerdo;
+se houver objeto pequeno à frente
+pegue o objeto à fente;
+robo pegou o objeto;
+vire 90° à esquerda;
+se inexistir obestaculo á frente faça
+enquanto o sensor não detectar obstaculo a frente
+robo faz passo + 1;
+se não vire 90° à direita;
+enquanto o sensor não detectar obstaculo a frente
+robo faz passo + 1;
+vire 90° à direita;
+se o sensor detectar objeto à frente
+robo está defronte à mes B;
+se não vire 90° à esquerda;
+robo está defronte à mesa B;
+ergar o braço direito;
+se inexistir obstaculo solte o objeto;
+se não abaixe o braço direito;
+se inexistir obstaculo solte o objeto;
+ergar o braço esquerdo;
+se inexistir obstaculo solte o objeto;
+se não abaixe o braço esquerdo;
+se inexistir obstaculo solte o objeto;
